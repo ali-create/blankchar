@@ -1,0 +1,21 @@
+.hidden {
+  border-style: none;
+  position: fixed;
+}
+.btn {
+  color: aliceblue;
+  background-color: black;
+  font-size: 2rem;
+  border-radius: 1rem;
+}
+.hide {
+  visibility: hidden;
+}
+.text {
+  font-size: 3rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.fix {
+  position: static;
+  text-align: center;
+}
